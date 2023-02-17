@@ -1,5 +1,14 @@
-# ubuntu-init
+# Docker-Debian-Init
 
+This is dockerfile to allow execution of a Debian pseudo-host within docker.
+
+This is the same as danielguerra69's project, but changed to Debian, and with some build scripts added.
+
+Danielguerra69's original docs follow below.
+
+
+
+#  Original danielguerra69/ubuntu-init docs
 
 Ubuntu bionic with init systemd running without the --privileged option.
 

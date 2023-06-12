@@ -1,6 +1,6 @@
 # Docker-Debian-Init
 
-This is dockerfile to allow execution of a Debian pseudo-host within docker.
+This dockerfile allows for the execution of a Debian pseudo-host within docker.
 
 This is the same as danielguerra69's project, but changed to Debian, and with some build scripts added.
 
